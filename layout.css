@@ -1,0 +1,71 @@
+html {
+    font-size: 62.5%;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+section {
+    background-color: #304e50 ;
+    border: white solid 1rem;
+    color: white;
+    padding: 1rem;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin-block-end: 1rem;
+}
+
+h1{font-size: 3.2rem;
+    color: #ddb78a;
+}
+h2{font-size: 3.2rem;
+    color: #30f92d;
+}
+h3{font-size: 3.2rem;
+}
+h4{font-size: 3.2rem;
+}
+h5{font-size: 3.2rem;
+}
+h6{font-size: 3.2rem;
+}
+p {
+    font-size: 1.6rem;
+}
+
+.strong {
+    color: #02ffff;
+    font-weight: bold;
+}
+.emphasized {
+    font-style: italic;
+    
+}
+.marked {
+    
+    background-color: yellow;
+    color: black;
+    padding: 0.5rem;
+
+}
+.small {
+
+
+}
+.overlind {
+    text-decoration: line-through;
+
+}
+.under {
+    text-decoration: underline;
+}
+.script{
+    vertical-align: sub;
+    font-size: 1.2rem;
+}
+.super {
+    vertical-align: super;
+    font-size: 1.2rem;
+
+}
